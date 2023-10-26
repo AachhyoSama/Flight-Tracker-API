@@ -5,4 +5,7 @@ npm-debug.log
 # Environment Variables
 .env
 
-
+# certificate and private key files
+key.pem
+cert.pem
+csr.pem
